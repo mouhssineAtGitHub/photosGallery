@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: auto;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1{
+  color:orange;
+  text-align: center;
+  font-size: 4vw;
+}
+p{
+  margin: auto;
+  color:rgb(209, 193, 164);
+  text-align: center;
+  font-size: 2.5vw;
+}
+footer{
+  margin: auto;
+  padding-top: 2.3vw;
+  color:rgb(77, 72, 65);
+  text-align: center;
+  font-size: 1.2vw;
+}
